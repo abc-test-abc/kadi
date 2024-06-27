@@ -3,7 +3,7 @@ export default function Home() {
   <div>
   <h2>hello world</h2>
   <div>
-    aaavv
+    <h4>rensyu commit</h4>
   </div>
   </div>
   )
